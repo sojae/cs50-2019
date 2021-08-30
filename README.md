@@ -3,7 +3,7 @@
 
 밑에 git status라고 먼저 코드를 입력한다
 
-git add .\README.md 입력한다 
+git add .\README.md 입력한다 git add 치고 R+탭
 
 git commit -m "아무거나"
 
